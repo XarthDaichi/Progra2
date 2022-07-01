@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "CargaPacientes",
+      "setup": "",
+      "run": "make CargaPacientes",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "CargaPacientesError",
+      "setup": "",
+      "run": "make CargaPacientesError",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "CargaEnfermedades",
+      "setup": "",
+      "run": "make CargaEnfermedades",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "CargaEnfermedadesError",
+      "setup": "",
+      "run": "make CargaEnfermedadesError",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "AnalisisEnfermedades",
+      "setup": "",
+      "run": "make AnalisisEnfermedades",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "AnalisisBaseNitrogenada",
+      "setup": "",
+      "run": "make AnalisisBaseNitrogenada",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "AnalisisConcordancia",
+      "setup": "",
+      "run": "make AnalisisConcordancia",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
