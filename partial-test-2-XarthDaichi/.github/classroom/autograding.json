@@ -1,0 +1,144 @@
+{
+  "tests": [
+    {
+      "name": "Servicio_1",
+      "setup": "",
+      "run": "make Servicio_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Servicio_2",
+      "setup": "",
+      "run": "make Servicio_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Servicio_3",
+      "setup": "",
+      "run": "make Servicio_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Grupo_1",
+      "setup": "",
+      "run": "make Grupo_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Grupo_2",
+      "setup": "",
+      "run": "make Grupo_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Coordinador",
+      "setup": "",
+      "run": "make Coordinador",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Zona_1",
+      "setup": "",
+      "run": "make Zona_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Zona_2",
+      "setup": "",
+      "run": "make Zona_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Calculo_1",
+      "setup": "",
+      "run": "make Calculo_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Calculo_2",
+      "setup": "",
+      "run": "make Calculo_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Calculo_3",
+      "setup": "",
+      "run": "make Calculo_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Calculo_4",
+      "setup": "",
+      "run": "make Calculo_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Calculo_5",
+      "setup": "",
+      "run": "make Calculo_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Calculo_6",
+      "setup": "",
+      "run": "make Calculo_6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}

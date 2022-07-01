@@ -1,0 +1,6 @@
+C:/Users/Xarthy/CLionProjects/Progra2/Homework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xarthy/CLionProjects/Progra2/Homework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Xarthy/CLionProjects/Progra2/Homework1/cmake-build-debug/src/CMakeFiles/Homework1_run.dir
+C:/Users/Xarthy/CLionProjects/Progra2/Homework1/cmake-build-debug/src/CMakeFiles/Homework1_lib.dir
+C:/Users/Xarthy/CLionProjects/Progra2/Homework1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Xarthy/CLionProjects/Progra2/Homework1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+passengerId;origin;destination;lenVehicles;vehicles(type;licencePlate);bus;seats;seatNumbers
+1;Volcán Arenal;San Carlos;2Buseta;BUS001;Buseta;BUS002;BUS001;2;1 2
+2;Volcán Arenal;San Carlos;2Buseta;BUS001;Buseta;BUS002;BUS002;3;1 2 3
+3;Río Celeste;San Carlos;2Buseta;BUS003;Coaster;COA001;BUS003;4;1 2 3 4
+4;Tamarindo;Guanacaste;2Coaster;COA002;Hiace;HIA001;COA002;5;1 2 3 4 5
+5;Puerto Viejo;Limón;2Hiace;HIA002;Hiace;HIA003;HIA002;6;1 2 3 4 5 6
+6;Cóbano;Puntarenas;2Hiace;HIA004;H1;HON001;HIA004;7;1 2 3 4 5 6 7
+7;Volcán Irazú;Cartago;1H1;HON002;HON002;6;1 2 3 4 5 6

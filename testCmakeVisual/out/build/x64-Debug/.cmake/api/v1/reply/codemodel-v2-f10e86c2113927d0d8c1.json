@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "testCmakeVisual",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "testCmakeVisual_lib::@145eef247bfb46b6828c",
+					"jsonFile" : "target-testCmakeVisual_lib-Debug-9ffd6d416784c3d0a938.json",
+					"name" : "testCmakeVisual_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "testCmakeVisual_run::@145eef247bfb46b6828c",
+					"jsonFile" : "target-testCmakeVisual_run-Debug-96387f745775c06cc7ce.json",
+					"name" : "testCmakeVisual_run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Xarthy/CLionProjects/Progra2/testCmakeVisual/out/build/x64-Debug",
+		"source" : "C:/Users/Xarthy/CLionProjects/Progra2/testCmakeVisual"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

@@ -1,0 +1,4 @@
+Name;Company;Price
+Star Wars Jedi: Fallen Order Deluxe Edition;Respawn Entertainment;39.99
+Hollow Knight;Team Cherry;15.99
+Tomb Raider;Crystal Dynamics;14.99

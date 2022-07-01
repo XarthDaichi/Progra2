@@ -1,0 +1,13 @@
+# ninja log v5
+0	661	6742082915397969	src/CMakeFiles/SIngletonTest_run.dir/CapacityManager.cpp.obj	331a86cb190e097a
+27	757	6742082916407942	src/CMakeFiles/SIngletonTest_run.dir/Vehicle.cpp.obj	82b68a8d8b2a782e
+18	758	6742082916417981	src/CMakeFiles/SIngletonTest_run.dir/Bus.cpp.obj	fde64875e3307f8
+50	849	6742082917357940	src/CMakeFiles/SIngletonTest_run.dir/main.cpp.obj	92a258569dbdf448
+37	974	6742082918598376	src/CMakeFiles/SIngletonTest_run.dir/VehicleFileManager.cpp.obj	574a8e7e5903497
+974	1232	6742082921118218	src/SIngletonTest_run.exe	13ead813607b5ddd
+5	755	6742085487761727	src/CMakeFiles/SIngletonTest_run.dir/main.cpp.obj	92a258569dbdf448
+759	1145	6742085491531710	src/SIngletonTest_run.exe	13ead813607b5ddd
+5	1141	6742092388628140	src/CMakeFiles/SIngletonTest_run.dir/Bus.cpp.obj	fde64875e3307f8
+32	1167	6742092388898343	src/CMakeFiles/SIngletonTest_run.dir/main.cpp.obj	92a258569dbdf448
+40	1168	6742092388907889	src/CMakeFiles/SIngletonTest_run.dir/VehicleFileManager.cpp.obj	574a8e7e5903497
+1169	1654	6742092393751544	src/SIngletonTest_run.exe	13ead813607b5ddd

@@ -1,0 +1,6 @@
+C:/Users/Xarthy/CLionProjects/Progra2/ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xarthy/CLionProjects/Progra2/ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Xarthy/CLionProjects/Progra2/ClasesAbstractaseInterfaces/cmake-build-debug/src/CMakeFiles/ClasesAbstractaseInterfaces_run.dir
+C:/Users/Xarthy/CLionProjects/Progra2/ClasesAbstractaseInterfaces/cmake-build-debug/src/CMakeFiles/ClasesAbstractaseInterfaces_lib.dir
+C:/Users/Xarthy/CLionProjects/Progra2/ClasesAbstractaseInterfaces/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Xarthy/CLionProjects/Progra2/ClasesAbstractaseInterfaces/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

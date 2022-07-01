@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab03-uml-relationships-XarthDaichi" targetName="lab03-uml-relationships-XarthDaichi_lib" />
+      <config projectName="lab03-uml-relationships-XarthDaichi" targetName="lab03-uml-relationships-XarthDaichi_run" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53b43885-cf21-43a2-bfe2-8cd31286986a" name="Changes" comment="Adding Diagram and basic implementation of classes">
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/ClasesAbstractaseInterfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/ClasesAbstractaseInterfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b5f161bcdd9f5ee87be9.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b5f161bcdd9f5ee87be9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b9cbb8ce80e2ec9a2fb5.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b9cbb8ce80e2ec9a2fb5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-815ca5f8ee8d2da0b747.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-815ca5f8ee8d2da0b747.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/directory-src-Debug-c94b7c2814d5a21df52c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/directory-src-Debug-c94b7c2814d5a21df52c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-21T03-57-46-0052.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-21T03-57-46-0052.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/target-ClasesAbstractaseInterfaces_lib-Debug-97bcd783f8dd3832fcb1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/target-ClasesAbstractaseInterfaces_lib-Debug-97bcd783f8dd3832fcb1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/target-ClasesAbstractaseInterfaces_run-Debug-63858f3fdc359630e686.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/target-ClasesAbstractaseInterfaces_run-Debug-63858f3fdc359630e686.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-40a45361301b1337b711.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-40a45361301b1337b711.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/src/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/cmake-build-debug/src/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Address.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Address.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Address.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Address.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/BankAccount.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/BankAccount.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/BankAccount.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/BankAccount.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Contractor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Contractor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Contractor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Contractor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Employee.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Employee.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Employee.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Employee.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/FullTimeEmployee.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/FullTimeEmployee.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/FullTimeEmployee.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/FullTimeEmployee.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromHome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromHome.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromHome.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromHome.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromOffice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromOffice.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromOffice.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/IWorkingFromOffice.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Person.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Person.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Person.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/Person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ClasesAbstractaseInterfaces/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/.idea/Homework1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/.idea/Homework1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0cb653d0fb79862c7f77.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0cb653d0fb79862c7f77.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8b35a0057f8c7069748e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8b35a0057f8c7069748e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4d2a73db6478bb36d3dc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4d2a73db6478bb36d3dc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/directory-src-Debug-c94b7c2814d5a21df52c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/directory-src-Debug-c94b7c2814d5a21df52c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-12T01-17-32-0492.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-12T01-17-32-0492.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/target-Homework1_lib-Debug-8c1fa31715c7faedb322.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/target-Homework1_lib-Debug-8c1fa31715c7faedb322.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/target-Homework1_run-Debug-c465b1376e26e812a7b1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/target-Homework1_run-Debug-c465b1376e26e812a7b1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-40a45361301b1337b711.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-40a45361301b1337b711.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/cmake-build-debug/src/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/cmake-build-debug/src/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/Animal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/Animal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/Animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/Animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/Cat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/Cat.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/Cat.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/Cat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/Dog.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/Dog.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/Dog.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/Dog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework1/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework1/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/src/Animal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/src/Animal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/src/Animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/src/Animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/src/Dog.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/src/Dog.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/src/Dog.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/src/Dog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-encapsulation/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-encapsulation/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/src/Animal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/src/Animal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/src/Animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/src/Animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/src/Dog.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/src/Dog.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/src/Dog.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/src/Dog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-inheritance/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-inheritance/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overloading/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overloading/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overloading/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overloading/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overloading/src/Addition.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overloading/src/Addition.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overloading/src/Addition.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overloading/src/Addition.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overloading/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overloading/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overloading/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overloading/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Animal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Animal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Cat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Cat.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Cat.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Cat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-function-overriding/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-operator-overloading/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-operator-overloading/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-operator-overloading/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-operator-overloading/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/Person.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/Person.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/Person.h" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-poly-operator-overloading/src/Person.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/lib/catch2/catch.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/lib/catch2/catch.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Alien.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Alien.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Alien.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Alien.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Armadura.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Armadura.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Armadura.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Armadura.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Guerrero.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Guerrero.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Guerrero.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Guerrero.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Humanoide.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Humanoide.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Humanoide.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Humanoide.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/HumanoideManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/HumanoideManager.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/HumanoideManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/HumanoideManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Policia.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Policia.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Policia.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Policia.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Predator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Predator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Predator.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Predator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/RoboCop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/RoboCop.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/RoboCop.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/RoboCop.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Robot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Robot.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Robot.h" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/src/Robot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/tst/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/tst/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/tst/ExamenParcialTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/tst/ExamenParcialTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/uml-drc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi/uml-drc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/CMake Overview" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/CMake Overview" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/ProjectSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/ProjectSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/cmake.db" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/cmake.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/ipch/AutoPCH/28d54c74d9ba47d/TESTCMAKEVISUAL.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/ipch/AutoPCH/28d54c74d9ba47d/TESTCMAKEVISUAL.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/ipch/AutoPCH/67ddd73ffb0c1cab/TESTCMAKEVISUAL.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/ipch/AutoPCH/67ddd73ffb0c1cab/TESTCMAKEVISUAL.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/ipch/AutoPCH/a879a6773c5b7f9a/TESTCMAKEVISUAL.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/.vs/testCmakeVisual/v16/ipch/AutoPCH/a879a6773c5b7f9a/TESTCMAKEVISUAL.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/CMakeSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/CMakeSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/query/client-MicrosoftVS/query.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/query/client-MicrosoftVS/query.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/cache-v2-4467030546c7aaae6bb2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/cache-v2-4467030546c7aaae6bb2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/cmakeFiles-v1-4de3ba0ceead92b9763b.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/cmakeFiles-v1-4de3ba0ceead92b9763b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/codemodel-v2-f10e86c2113927d0d8c1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/codemodel-v2-f10e86c2113927d0d8c1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/index-2022-04-10T05-29-40-0077.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/index-2022-04-10T05-29-40-0077.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/target-testCmakeVisual_lib-Debug-9ffd6d416784c3d0a938.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/target-testCmakeVisual_lib-Debug-9ffd6d416784c3d0a938.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/target-testCmakeVisual_run-Debug-96387f745775c06cc7ce.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/target-testCmakeVisual_run-Debug-96387f745775c06cc7ce.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/toolchains-v1-ceae26ab187798ea7f0e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/.cmake/api/v1/reply/toolchains-v1-ceae26ab187798ea7f0e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/ShowIncludes/foo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/ShowIncludes/foo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/VSInheritEnvironments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/VSInheritEnvironments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/src/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/src/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/testCmakeVisual/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/out/build/x64-Debug/testCmakeVisual/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/src/Address.h" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/src/Address.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/src/testCmakeVisual.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/src/testCmakeVisual.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCmakeVisual/src/testCmakeVisual.h" beforeDir="false" afterPath="$PROJECT_DIR$/../testCmakeVisual/src/testCmakeVisual.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectId" id="27YXEz7NxcS57oWWk7HNndXncNh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../partial-test-1-q2-XarthDaichi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Xarthy\CLionProjects\Progra2\lab03-uml-relationships-XarthDaichi\diagram" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.lab03-uml-relationships-XarthDaichi_run">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab03-uml-relationships-XarthDaichi_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab03-uml-relationships-XarthDaichi" TARGET_NAME="lab03-uml-relationships-XarthDaichi_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab03-uml-relationships-XarthDaichi_run" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab03-uml-relationships-XarthDaichi" TARGET_NAME="lab03-uml-relationships-XarthDaichi_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab03-uml-relationships-XarthDaichi" RUN_TARGET_NAME="lab03-uml-relationships-XarthDaichi_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.lab03-uml-relationships-XarthDaichi_lib" />
+      <item itemvalue="CMake Application.lab03-uml-relationships-XarthDaichi_run" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b43885-cf21-43a2-bfe2-8cd31286986a" name="Changes" comment="" />
+      <created>1649497886548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649497886548</updated>
+      <workItem from="1649497888429" duration="2364000" />
+      <workItem from="1649638878578" duration="618000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding Diagram and basic implementation of classes">
+      <created>1649500250222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649500250222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Diagram and basic implementation of classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Diagram and basic implementation of classes" />
+  </component>
+</project>

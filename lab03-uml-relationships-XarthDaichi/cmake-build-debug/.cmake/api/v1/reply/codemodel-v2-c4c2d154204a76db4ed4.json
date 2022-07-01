@@ -1,0 +1,85 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "lab03-uml-relationships-XarthDaichi",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "lab03-uml-relationships-XarthDaichi_lib::@145eef247bfb46b6828c",
+					"jsonFile" : "target-lab03-uml-relationships-XarthDaichi_lib-Debug-2c5a842f7d64fba418e7.json",
+					"name" : "lab03-uml-relationships-XarthDaichi_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lab03-uml-relationships-XarthDaichi_run::@145eef247bfb46b6828c",
+					"jsonFile" : "target-lab03-uml-relationships-XarthDaichi_run-Debug-3fdc79fc44138924e9e7.json",
+					"name" : "lab03-uml-relationships-XarthDaichi_run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Xarthy/CLionProjects/Progra2/lab03-uml-relationships-XarthDaichi/cmake-build-debug",
+		"source" : "C:/Users/Xarthy/CLionProjects/Progra2/lab03-uml-relationships-XarthDaichi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
